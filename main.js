@@ -31,7 +31,7 @@ for(let i = 0; i <= 10000; i++) {
   if (i == 10000){
       alert("The loop is done!");
   }
-}
+} 
 
 /* Finally write an array of your top 5 favorite tv shows (make them up if you don't have any)
 Loop through the array of your top 5 favorite tv shows and log to the console the following message each loop:
